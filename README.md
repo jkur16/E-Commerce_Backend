@@ -4,7 +4,6 @@
 * [Description](#Description)
 * [Technology](#Technology)
 * [Screenshots](#Screenshots)
-* [Live Site](#Live_Site)
 * [License](#License)
 * [Contact](#Contact)
 
@@ -17,10 +16,8 @@ This project is the creation of the back end for an e-commerce site. This applic
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ## Screenshots
-![Screenshot1](/assets/screenshot1)
-![Screenshot1](/assets/screenshot2)
-## Live Site
-Please visit deployed app [here](https://jkur16.github.io/PasswordGenerator/).
+![Screenshot1](assets/screenshot1.jpg)
+![Screenshot2](assets/screenshot2.jpg)
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Contact
